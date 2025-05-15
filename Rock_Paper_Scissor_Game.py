@@ -1,15 +1,3 @@
-# PROJECT 1: SNAKE, WATER, GUN GAME
-# We all have played rock, paper scissor game in our childhood. If you haven’t, google the
-# rules of this game and write a python program capable of playing this game with the user.
-# Solution:
-# Here's a Python program to play the Rock, Paper, Gun (SWG) game where the user plays
-# against the computer. The rules are simple:
-# • Rock beats paper.
-# • Paper beats scissor.
-# • Gun beats rock.
-# The program will generate a random choice for the computer and compare it to the player's
-# choice.
-# Rock, Paper, Scissor Game in Python
 import random
 
 
